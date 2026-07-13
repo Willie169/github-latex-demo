@@ -67,3 +67,24 @@ Can you provide any logs? i.e. response headers, output
 
 View my [github-latex-demo](https://github.com/Willie169/github-latex-demo).
 
+---
+
+---
+
+GitHub Support
+
+comments
+
+Hi Willie169,
+ 
+Thanks for reaching out to GitHub Support about rendering LaTeX in the GitHub mobile app. 
+ 
+We currently do not provide support for rendering LaTeX on the GitHub mobile apps on Android and iOS. I have added your information to an internal issue requested this feature. While we don't have information on if/when we may offer this feature, you may wish to monitor the [GitHub Blog](https://github.blog/) and [Changelog](https://github.blog/changelog/) for the latest changes.
+ 
+ 
+
+Thanks,
+
+Steve
+GitHub Support
+
